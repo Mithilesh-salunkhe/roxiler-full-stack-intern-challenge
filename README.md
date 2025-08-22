@@ -54,27 +54,27 @@ _[**This is a full-stack web application designed for a store rating platform. T
 _[**Include relevant screenshots of your application to visually demonstrate its features and user interface.**]_
 
 ### Normal User Dashboard
-<br>
-![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/normal-user-dashboard.png)
-<br>
+
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125722.png)
 
 ### Store Owner Dashboard
-_[**Add a link or embed an image here showing the store owner dashboard with the overall rating and list of ratings.**]_
-<br>
-`![](link_to_your_store_owner_dashboard_screenshot.png)`
-<br>
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125816.png)
+
 
 ### Admin Dashboard (Optional, if you want to highlight it)
-_[**Add a link or embed an image of the admin dashboard.**]_
-<br>
-`![](link_to_your_admin_dashboard_screenshot.png)`
-<br>
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125518.png)
 
-### Rating Form
-_[**Add a link or embed an image of the rating submission form.**]_
-<br>
-`![](link_to_your_rating_form_screenshot.png)`
-<br>
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125537.png)
+
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125557.png)
+
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125625.png)
+
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125643.png)
+
+
+
+
 
 ## Installation & Setup
 

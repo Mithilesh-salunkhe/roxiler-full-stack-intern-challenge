@@ -15,7 +15,7 @@ _[**This is a full-stack web application designed for a store rating platform. T
 
 ## Project Flow
 
-
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/Screenshot%202025-08-22%20125317.png)
 
 ### Normal User Flow
 1.  **Signup/Login:** User can create a new account or log in with existing credentials.
@@ -54,9 +54,8 @@ _[**This is a full-stack web application designed for a store rating platform. T
 _[**Include relevant screenshots of your application to visually demonstrate its features and user interface.**]_
 
 ### Normal User Dashboard
-_[**Add a link or embed an image here showcasing the normal user dashboard with store listings and rating options.**]_
 <br>
-`![](link_to_your_normal_user_dashboard_screenshot.png)`
+![Alt Text](https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/raw/main/frontend/src/assets/normal-user-dashboard.png)
 <br>
 
 ### Store Owner Dashboard

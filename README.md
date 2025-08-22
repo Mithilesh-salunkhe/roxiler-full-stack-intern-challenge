@@ -74,23 +74,10 @@ _[**Include relevant screenshots of your application to visually demonstrate its
 
 
 
-
-
-## Installation & Setup
-
-_[**Keep this section as you have it.**]_
-
-## API Endpoints
-
-_[**Keep this section as you have it.**]_
-
 ## GitHub Repository Links
 
-* **Frontend:** `https://github.com/your-username/your-frontend-repo`
-* **Backend:** `https://github.com/your-username/your-backend-repo`
+* **Frontend:** https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/tree/main/frontend
+* **Backend:** https://github.com/Mithilesh-salunkhe/roxiler-full-stack-intern-challenge/tree/main/backend
 
-_[**Replace the example links with the actual links to your frontend and backend repositories if you have separated them.**]_
-
----
 
 **Thank you for reviewing my project!**
